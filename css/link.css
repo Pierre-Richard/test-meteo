@@ -18,4 +18,6 @@ html, body {
     cursor: pointer;
   }
 
- 
+.nothing {
+	display: none;
+ }
